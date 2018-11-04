@@ -1,0 +1,14 @@
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Release\minesweeper.exe.config
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Release\minesweeper.exe
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Release\minesweeper.pdb
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Release\Image.dll
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Release\MinesweeperLibrary.dll
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Release\MinesweeperLibrary.pdb
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Release\Image.pdb
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Release\minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Release\minesweeper.Form.resources
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Release\minesweeper.Properties.Resources.resources
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Release\minesweeper.csproj.GenerateResource.Cache
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Release\minesweeper.exe
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Release\minesweeper.pdb
+C:\Users\Даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Release\minesweeper.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Debug\minesweeper.exe.config
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Debug\minesweeper.exe
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Debug\minesweeper.pdb
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.csprojResolveAssemblyReference.cache
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.Form.resources
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.Properties.Resources.resources
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.GenerateResource.Cache
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.exe
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.pdb
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Debug\Image.dll
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Debug\MinesweeperLibrary.dll
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Debug\MinesweeperLibrary.pdb
+c:\users\даниил\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Debug\Image.pdb
